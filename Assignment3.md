@@ -20,35 +20,35 @@ Complete the following Tutorials and do not clean up resources until assignment 
    https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm?source=recommendations
    https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-custom-images?source=recommendations
 
-- Virtual Machine Created ❌✅
-- Custom Image of Virtual Machine Created ❌✅
+- Virtual Machine Created ✅
+- Custom Image of Virtual Machine Created ✅
 
 2. Create Container Registry
    https://learn.microsoft.com/en-us/azure/container-registry/container-registry-get-started-powershell
 
-- Container Registry Created ❌✅
-- Push Custom Image from step 1 to container registry with docker ❌✅
+- Container Registry Created ✅
+- Push Custom Image from step 1 to container registry with docker ✅
 
 3. Create an Event Grid and Send Container Registry Events
    https://learn.microsoft.com/en-us/azure/container-registry/container-registry-event-grid-quickstart
    https://learn.microsoft.com/en-us/azure/container-registry/container-registry-event-grid-quickstart#subscribe-to-registry-events
 
-- Event Grid Created ❌✅
-- Event Grid Web Viewer Endpoint Created ❌✅
-- Subscribe Event Grid to Container Registry Events ❌✅
-- New Image Version Pushed to Container Registry from Step 2 ❌✅
-- Verify Event Grid Subscription is Working Through Event Grid Viewer Endpoint ❌✅
+- Event Grid Created ✅
+- Event Grid Web Viewer Endpoint Created ✅
+- Subscribe Event Grid to Container Registry Events ✅
+- New Image Version Pushed to Container Registry from Step 2 ✅
+- Verify Event Grid Subscription is Working Through Event Grid Viewer Endpoint ✅
 
 4. Create a container instance
    https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart
 
-- Container instance created ❌✅
+- Container instance created ✅
 
 5. Create Event Hub
    https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell
 
-- Event Hub Namespace Created ❌✅
-- Event Hub Created ❌✅
+- Event Hub Namespace Created ✅
+- Event Hub Created ✅
 - Events sent to your Event Hub
   https://learn.microsoft.com/en-us/azure/event-hubs/send-and-receive-events-using-data-generator
 
